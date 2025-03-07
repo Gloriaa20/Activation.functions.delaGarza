@@ -23,13 +23,14 @@
 
 🚀 Requirements
 
-   - pip install numpy matplotlib
+    pip install numpy matplotlib
 
 
 🖥️ Usage
 
    Save the code in a file named activations.py and run it with:
-   python activations.py
+
+    python activations.py
 
 
 📊 Visualization
@@ -60,14 +61,19 @@
    - Navigate to the directory where you want to create your project.
 
    - Run the following command to create a virtual environment:
-   python -m venv venv
+   
+         python -m venv venv
 
 This will create a folder named venv that contains a separate Python installation.
 
  Activate the virtual environment:
- On Windows: venv\Scripts\activate
+ On Windows: 
+ 
+    venv\Scripts\activate
 
- On macOS/Linux: source venv/bin/activate
+ On macOS/Linux:
+ 
+    source venv/bin/activate
 
  Once activated, you’ll see the environment name in your terminal prompt indicating that you're working in the virtual environment.
 
@@ -75,7 +81,8 @@ This will create a folder named venv that contains a separate Python installatio
 3. Install the Required Libraries
 
    The code uses numpy and matplotlib. You need to install these libraries if you haven't already. Run the following command to install them (ensure you are inside your virtual environment if you created one):
-   pip install numpy matplotlib
+
+       pip install numpy matplotlib
 
 
 4. Create the Python File with the Code
@@ -89,24 +96,30 @@ Once you have the file with the code, you can run it as follows:
 
    - Open a terminal or command prompt.
 
-   - Navigate to the directory where you saved the Python file. For example, if you saved it in a folder called activation_functions on your desktop, navigate to that folder:
+  Navigate to the directory where you saved the Python file. For example, if you saved it in a folder called activation_functions on your desktop, navigate to that folder:
+On Windows:
 
-   On Windows: cd C:\Users\YourUserName\Desktop\activation_functions
-   On macOS/Linux: cd ~/Desktop/activation_functions
+     cd C:\Users\YourUserName\Desktop\activation_functions
+     
+On macOS/Linux: 
+    
+     cd ~/Desktop/activation_functions
 
-   - Run the Python file with: python activation_functions.py
+Run the Python file with: 
+   
+    python activation_functions.py
 
 
 6. View the Results
 
 Once you run the code, three plots will be generated showing the activation functions Sigmoid, Tanh, and ReLU. The plots will appear one by one in a Matplotlib window.
 
-- Summary of Steps:
-   Install Python.
-   Create a virtual environment (optional).
-   Install the necessary libraries (numpy and matplotlib).
-   Create a .py file with the code.
-   Run the Python file using python file.py.
+Summary of Steps:
+   - Install Python.
+   - Create a virtual environment (optional).
+   - Install the necessary libraries (numpy and matplotlib).
+   - Create a .py file with the code.
+   - Run the Python file using python file.py.
 
 After following these steps, you should be able to see the plots generated for the activation functions. 
 
@@ -114,13 +127,17 @@ After following these steps, you should be able to see the plots generated for t
 
 # if you have errors, follow the commands.
 
-pip install numpy
-pip3 install numpy
+    pip install numpy
+    
+    pip3 install numpy
 
-source env/bin/activate
-pip install matplotlib
-python -c "import matplotlib; print(matplotlib.__version__)"
-python functions.py
+    source env/bin/activate
+    
+    pip install matplotlib
+    
+    python -c "import matplotlib; print(matplotlib.__version__)"
+    
+    python functions.py
 
 which pip  
 pip install --upgrade pip

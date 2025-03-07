@@ -125,7 +125,7 @@ After following these steps, you should be able to see the plots generated for t
 
 
 
-# if you have errors, follow the commands.
+# If you have errors, follow the commands.
 
     pip install numpy
     

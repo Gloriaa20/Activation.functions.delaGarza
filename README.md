@@ -139,6 +139,7 @@ After following these steps, you should be able to see the plots generated for t
     
     python functions.py
 
-which pip  
-pip install --upgrade pip
+    which pip  
+    
+    pip install --upgrade pip
 

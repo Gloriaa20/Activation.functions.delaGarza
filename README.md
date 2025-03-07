@@ -38,12 +38,7 @@
    The code will generate graphs for each activation function, showing their behavior over a range of values.
 
 
-🛠️ Author and Contribution
-
-   Created to demonstrate activation functions in neural networks. Contributions and improvements are welcome! 🚀
-
-
-# Here’s how you can run the code you provided on your machine:
+🛠️ Here’s how you can run the code you provided on your machine:
 
 1. Install Python 3.8.10
 
@@ -56,13 +51,13 @@
 
    - Creating a virtual environment is a good practice to manage dependencies in your project without affecting other Python installations. To do this:
 
-   - Open a terminal or command prompt.
+     - Open a terminal or command prompt.
 
-   - Navigate to the directory where you want to create your project.
+     - Navigate to the directory where you want to create your project.
 
-   - Run the following command to create a virtual environment:
+     - Run the following command to create a virtual environment:
    
-         python -m venv venv
+           python -m venv venv
 
 This will create a folder named venv that contains a separate Python installation.
 

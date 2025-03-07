@@ -23,8 +23,7 @@
 
 🚀 Requirements
 
-   - Make sure you have the following dependencies installed before running the code:
-     pip install numpy matplotlib
+   - pip install numpy matplotlib
 
 
 🖥️ Usage
